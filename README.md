@@ -16,7 +16,7 @@ A requisição deve receber como parâmetros: A moeda de origem, o valor a ser c
 
 Ex: `?from=BTC&to=EUR&amount=123.45`
 
-Você pode usar qualquer linguagem de programação para o desafio. Abaixo a lista de linguagens que nós aqui do HU temos mais afinidade:
+Você pode usar qualquer linguagem de programação para o desafio. Abaixo a lista de linguagens que nós aqui da CA temos mais afinidade:
 - JavaScript (NodeJS)
 - Python
 - Go
