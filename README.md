@@ -59,3 +59,6 @@ Boa sorte! ;)
 <p align="center">
   <img src="ca.jpg" alt="Challange accepted" />
 </p>
+
+## Créditos
+Esse repositório foi baseado no [challenge-bravo](https://github.com/hurbcom/challenge-bravo) criado pelo [Carlos Rios](https://github.com/zanaca).
